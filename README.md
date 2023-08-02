@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackKat15
 - 👀 I’m interested in writing, drawing, coding, movies, games
-- 🌱 I’m currently learning Certificate 4 in Information Technology
+- 👩‍💻 I’m currently learning Certificate 4 in Information Technology
 - 💜 Type One Diabetes Sucks LMAO
 
 <!---
